@@ -19,3 +19,13 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 // "" => false
 // "vivek" => true
 
+// ******************operation*********************
+
+let value = 3 
+let negValue = -value
+// console.log(negValue);
+
+let score = "vivek"
+
+console.log(typeof score);
+console.log(typeof (score));
